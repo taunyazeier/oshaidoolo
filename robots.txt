@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saelahlohg.sarah-brosseder.de/sitemap.xml
